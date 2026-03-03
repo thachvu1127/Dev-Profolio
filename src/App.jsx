@@ -11,7 +11,7 @@ function App() {
     <div className={"min-h-screen overflow-x-hidden"}>
       <Navbar></Navbar>
       <main>
-        {/*<Hero></Hero>*/}
+        <Hero></Hero>
         {/*<About></About>*/}
         {/*<Projects></Projects>*/}
         {/*<Experience></Experience>*/}
